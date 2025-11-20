@@ -1,4 +1,5 @@
 # FinSight AI 📈
+<img width="1512" height="737" alt="Screenshot 2025-11-19 at 9 40 31 PM" src="https://github.com/user-attachments/assets/80fc6e87-47b6-451f-ab4b-41a14ddc3a5d" />
 
 **Instant Financial Intelligence & Sentiment Analysis**
 
@@ -14,6 +15,7 @@ FinSight AI is a professional-grade financial analysis tool powered by Google's 
 - **Risk & Driver Analysis**: Isolates key market drivers and potential risk factors.
 - **Investment Implications**: Provides actionable strategic advice based on the analyzed text.
 - **Monochrome Aesthetic**: A sleek, high-contrast "Black & White" UI designed for professional financial environments.
+<img width="463" height="548" alt="Screenshot 2025-11-19 at 9 40 56 PM" src="https://github.com/user-attachments/assets/0d9c77e5-c616-454c-8ec3-0ec1bca749a9" />
 
 ## 🛠️ Tech Stack
 
