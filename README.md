@@ -5,8 +5,6 @@
 
 FinSight AI is a professional-grade financial analysis tool powered by Google's **Gemini 2.5 Flash** model. It processes earnings calls, news articles, and financial reports to generate actionable investment insights, sentiment scoring, and executive summaries in real-time.
 
-![FinSight AI Dashboard](https://via.placeholder.com/1200x600/000000/FFFFFF?text=FinSight+AI+Dashboard)
-
 ## ✨ Features
 
 - **Advanced Sentiment Engine**: Quantifiable market mood metrics ranging from **-100 (Bearish)** to **+100 (Bullish)**.
